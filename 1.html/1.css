@@ -1,0 +1,34 @@
+.container {
+  align-items: center;
+  padding: 5px;
+  margin: 5px;
+  background: rgb(238, 235, 235);
+  border: radius 10px;
+  height: 390px;
+  width: 355px;
+  border: 2px solid rgb(0, 0, 0);
+  align-self: center;
+}
+
+.button {
+  width: 75px;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: medium;
+  background: transparent;
+  color: black;
+}
+.screen {
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
